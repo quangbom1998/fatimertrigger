@@ -7,3 +7,4 @@ azure-identity
 azure-mgmt-storage
 azure-keyvault-secrets
 requests
+pyopenssl
