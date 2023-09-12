@@ -8,3 +8,5 @@ azure-mgmt-storage
 azure-keyvault-secrets
 requests
 pyopenssl
+pyasn1
+ndg-httpsclient
